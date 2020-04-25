@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>badApple</title>
+    <link rel="stylesheet" href="./badApple.css">
+    <script src="./node_modules/vue/dist/vue.js"></script>
+</head>
+<body>
+    <div id="app">
+        <div class="top">
+            <input type="file" value="读取视频" multiple @change="getFiles"> 
+            <input type="button" value="播放" @click="play" v-if="flag">
+            <input type="button" value="暂停" @click="pause" v-else>
+            <div class="bar" @click="reset">
+                <a class="btn" :style="leftValue"></a>
+                <div class="progress" ref="progress"></div>
+            </div>
+        </div>
+        <textarea cols="150" rows="66" readonly>{{video}}</textarea>
+        <audio src="./badApple.mp3" ref="music">音乐</audio>
+    </div>
+</body>
+<script src="./badApple.js"></script>
+</html>

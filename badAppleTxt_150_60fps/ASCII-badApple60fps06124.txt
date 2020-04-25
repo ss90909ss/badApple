@@ -1,0 +1,66 @@
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM8XX7rr;i:i:,,,,,.,.,.................... . . .                                                        
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM@2SXX7r;;ii:::,,,,,,,.,.,.,................ . . . . . .                                               
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMW2XXrr;;ii::,,,,,,...................... . . . . .                                                    
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM@2XX7r;ii::,:,,,,.,.................... . . . . .                                                     
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMW2XX7r;;ii::::,,,,.,.................... . .   . .                                                    
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM@2XX7r;;i::,:,,,,.,.................... . . . . .                                                     
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMB2XX7r;;ii::,,,,,,...................... . .   . .                                                    
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM0SXX7r;ii::,,,,,,,..................... . . . . .                                                     
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMZSXXrr;ii::::,,,,,.................... . . . . .                                                      
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMW2XX7r;;ii::::,,,,...................... . .   . .                                                     
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM0XX77r;ii::,,,,,,.,.................... . . . . .                                                      
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM@2XX7r;;ii:::,,,,,,.................. .                                                                 
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMZSXXrr;;ii::::,,,,....................  .                                                               
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM0SXX7r;;ii::::,,,,.,..................  MMMMZ;                                                           
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMW2XX7r;;ii::,:,,,,.,...................  2MMMMMMMWS                                                       
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWaXX77r;ii::::,,,,,,....................   WMMMMMMMMMBZr                                                   
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWaXX77r;ii:::::,,,,,.....................    MMMMMMMMMMMMMB                                                 
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMB2XX77r;ii::::,,,,,,......................   MMMMMMMMMMMMMMMMa                                               
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM8SXX77r;ii:i::,:,,,,.,....................  .MMMMMMMMMMMMMMMMMMZ                                              
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWZXXXrr;;ii::::,:,,,,......................   ,MMMMMMMMMMMMMMMMMMM                                              
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM8SX77rr;;ii::::,:,,,,........................   SMMMMMMMMMMMMMMMMMMr                                             
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM02XX77rr;;ii::::,,,,,,.,...................... .    iMMMMMMMMMMMMMMMM2                                             
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM@82X7X77r;;iii::,,.......,...................... . .   BMMMMMMMMMMMMMMMMB                                             
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMBZSXX77rr;;iiii::,.         ..................... . .    .MMMMMMMMMMMMMMMMM                                             
+MMMMMMMMMMMMMMMMMMMMMMMMMMMBZ2XX777rr;;;ii:::::.,WMM@0X:       .............             MMMMMMMMMMMMMMMM:                                            
+MMMMMMMMMMMMMMMMMMMMMMMB8aSXX7777rr;;iiii::,:::. SMMMMMMMWr                                XMMMMMMMMMMMMMM                                            
+ZB0W@MMMMMMMMMM@WB08a2XX777777rr;;;iii:::::,,:,,   ri;ZMMMMMM@027i.         ; .MM@ar.      BMMMMMMMMMMMMMMS                                           
+7XXXXXSSSSSSSSSXXXX777777rrrr;;;iiiii::,:,,,,,,..       rZBMMMMMMMMMMMM0rrX2MMMMMMMMMMMMMMMMMMMMMMMMMMMMMM8                                           
+rX777777777777777777rrrr;r;;iiii:i::::::,,,,,,,,......       iSBMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM0                                           
+;rrrrrrrrrrrrrrrr;r;r;;;;iiii:i:::::,,,,,,,,,.,.,...,....          ;ZWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM2                                          
+i;i;i;;;;;;;;;;;i;iiiiii:i::::::,,,:,,,,,,.,..................             .M0MMMMMMMMMB8MMMMMMMMMMMMMMMMMMMM8                                        
+iii:iiiiiiiiiiiii:i::::::::::::,:,,,,,,,,.,.,......................           rMMM8r.   ZMMMMMMMMMMMMMMMMMMMMMM;                                      
+:i::::::::::::::::::::,::,,,,,,,,,,,,,.,.............................. .               BMMMMMMMMMMMMMMMMMMMMMMM:                                      
+,::::::::,:,::::,,,,,,:,,,,,,,,,,,,.,................................ . ...           XMMMMMMMMMMMMMMMMMMMMMMMMX                                      
+,,,:,:,:,,,,,:,,,,,,,,,,,,,,,,,,.,.................................. . ...            ZMMMMMMMMMMMMMMMMMMMMMMMM;                                      
+,,,,,,,,,,,,,,,,,,,,,,,,,,,.,,,.........,........................ . . . . . . .        MMMMMMMMMMMMMMMMMMMMMMMMM                                      
+.,,,,,,,,,,,.,,,,,,,,,.,.,.,.................................... . . . . . . .          ,2@MMMMMMMMMMMMMMMMMMMMMM                                     
+,,,,,,,,,.,.,.,.,.,.,.,........................................ . . . . . . .              MMMMMMMMMMMMMMMM@aMMMM8                                    
+.,.,.,.,.,.,.,.,.,.,.......................................... . . . . . .                 MMMMMMMMMMMMMMMM8 MMMMM                                    
+....,.,.,.,................................................ . . . . . . .                  BMMMMMMMMMMMMMMM2 MMMMM                                    
+.,.................,...................................... . . . . . . .                    MMMMMMMMMMMMMMMS BMMMM                                    
+............,.......................................... . . . .   . .                      ;MMMMMMMMMMMMMMMX :MMMM:                                   
+.,.................................................. . . ... . . . .                       @MMMMMMMMMMMMMMMM  MMMMS                                   
+................................................. . . . . .   . .                          MMMMMMMMMMMMMMMMMX MMMM0                                   
+.,.............................................. . . . . . . . .                          7MMMMMMMMMMMMMMMMM2 ;MMMM                                   
+............................................. . . . . .   . . .                           WMMMMMMMMMMMMMMMMM2 rMMMM,                                  
+........................................ . . . ... .   . . .                              MMMMMMMMMMMMMMMMMM@ 0MMMMM                                  
+..................................... . . . ... .   . . .                                .MMMMMMMMMMMMMMMMMMMiMMMMMM                                  
+.................................. . . . ... . . . . . .                                 ZMMMMMMMMMMMMMMMMMMMMMMMMMM                                  
+........................... . . . . . . . .   . . .                                      MMMMMMMMMMMMMMMMMMMMMi@MBMMWi                                
+...................... . . . . . ... .     . . . .                                       MMMMMMMMMMMMMMMMMMMMM0rMMaM7                                 
+... ..... . . . . . . . . ... . . . . . . . . .                                         2MMMMMMMMMMMMMMMMMMMMMMi7M@,,                                 
+ . . . . . . . . . ... . . . .     . . . . .                                            MMMMMMMMMMMMMMMMMMMMMMMM                                      
+... . . . . ... . . . . .   . . . . . .                                                ;MMMMMMMMMMMMMMMMMMMMMMMM@                                     
+ . . . . . . . .     . . . . . . .                                                     MMMMMMMMMMMMMMMMMMMMMMMMMMX                                    
+        . . . . . . . . . . .                                                         SMMMMMMMMMMMMMMMMMMMMMMMMMMM.                                   
+ . . . . . . . . . . .                                                                MMMMMMMMMMMMMMMMMMMMMMMMMMMMM                                   
+  . . . .                                                                            8MMMMMMMMMMMMMMMMMMMMMMMMMMMMMM                                  
+ .                                                                                   MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM8                                 
+                                                                                    MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMX                                
+ .                                                                                  MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM,                               
+                                                                                   aMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM                               
+                                                                                   MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMW                              
+                                                                                   MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM;                             
+                                                                                  ;MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM                             
+                                                                                  MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMZ                            

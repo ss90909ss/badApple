@@ -1,0 +1,66 @@
+                                                                                                                                                      
+                                                                                                                                                      
+                                                                                                                                                      
+                                                                                                                                                      
+                                                                                                                                                      
+                                                                                                                                                      
+                                                                                                                                                      
+                                                                                                                                                      
+                                                                                                                                                      
+                                                                                                                                                      
+                                                                                                                                                      
+                                                                                                                                                      
+                                                                                                                                                      
+                                                                                                                                                      
+                                                                                                                                                      
+                                                                                                                                                      
+                                                                                                                                                      
+                                                                                                                                                      
+                                                                                                                                                      
+                                                                                                                                                      
+                                                                                                                                                      
+                                                                                                                                                      
+                                                                                                                                                      
+                                                                                                                                                      
+                                                                                                                                                      
+                                                                                                                                                      
+                                                                   ;;        .a0r       ;Zr                                                           
+                                                        XBZ      :MMMMi     7MMMMr     MMMMM      .                                                   
+                                                i,     MMMMM     7MMMM2     WMMMM     SMMMM0    BMMMW                                                 
+                                              7MMMM    2MMMM,     X@MX       X8X       ZM@7    BMMMMM.   ,.                                           
+                                              0MMMMW    :Z2                                    7MMMMr  8MMMM;                                         
+                                         aMMZ  0MMMi                                                  @MMMMMM                                         
+                                        7MMMMM                        2         Z                     aMMMMMMB2                                       
+                                        iMMMMM              M        rM,       2M.       7B              8MMMMMM                                      
+                                       ;MMMMW      ..       MM       BMM      ,MMS      rMM       ;     rMMMMMMM                                      
+                                       ;MMMMMi,    .MX      7MM,    iMMMM:   7MMMM     aMMS      WM   BMMMMMMBr                                       
+                                        :BMMMMMMX   ,M0     WMMM@80MMMMMMMMMMMMMMMMWZ0MMMMZ   ZMMMW  iMMMMMMM                                         
+                                           ZMMMMM   ;MMM8XZMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMBXMMMMMMM  aMMMMZ                                          
+                                            ZMMMMr iMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMW 0M2                                              
+                                                rM@@MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMBMMX                                               
+                                                 0MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM2 iMZ                                            
+                                              ,7rMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMZBM;                                             
+                                           :X0@MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMaSi                                           
+                                       .X0MMMMMM0MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM0BMMMMM@2i                                       
+                                    ,2WMMMMMMZi   SMMMMMMMMMMMMMMB2r,.           .;X8@MMMMMMMMMMMMMB   .XBMMMMMMZ;                                    
+                                  7BMMMMMM0r        MMMMMMM8;.                           ;S@MMMMMMX       ,2MMMMMMM2:                                 
+                                X@MMMMMM8i          SMMMMMMX       MM;          .M8        ZMMMMMM          .2WMMMMMM8:                               
+                              XBMMMMMMB7            .MMMMMMMMWX   7MMMW,       SMMMX   :SWMMMMMMM8            iZMMMMMMMa,                             
+                            :ZMMMMMM@Z;             rMMMMMMMMMMMMMMMMMMMMW000WMMMMMMMMMMMMMMMMMMMM             .SBMMMMMM07                            
+                           i8MMMMMMWZ;              MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM,             ,SBMMMMMMBX                           
+                          :ZWMMMMM@8X              .MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMZ              ;aWMMMMMM0X                          
+                          S0MMMMMMWZr               MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM;              ,20@MMMMMWai                         
+                         :2BMMMMMMBZ;               .MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMZ               :S8WMMMMMW8r                         
+                         :2BMMMMMMWZ7                 BMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM;                i20@MMMMMWZr                         
+                         .S8WMMMMMW02i                  aMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMBi                 ,XZW@MMMM@Ba;                         
+                          ;aB@MMMMMW0Si                    XWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMZ:                   .XZB@MMMMMW8X.                         
+                           7ZB@MMMMMW0a;                       :7aBMMMMMMMMMMMMMMMM@8S;                       ,XZB@MMMMMW8X,                          
+                            ra0@MMMMM@BZX:                                                                  .ra0WMMMMM@B8X,                           
+                             :XZB@MMMMM@BZX:                                                              .ra0W@MMMMMW0a;                             
+                               iS8W@MMMMMWW82r,                                                         iXZ0W@MMMMMW0a7.                              
+                                 iXZ0@MMMMMMWB8a7:                                                  .;SZ0W@MMMMM@B82;.                                
+                                   .;SZBW@MMMMM@W0ZS7i,                                         :;Sa0B@@MMMMM@W8a7:                                   
+                                      .;XZ0WWMMMMM@@WW0Z2Xri:.                          .,:;72Z8BWWMMMMMM@WBZ2r:                                      
+                                          ,;Xa8BWW@MMMM@@@@WB08Za2SX7rr;;;;i;;;;rrXX22ZZ00BW@@M@M@M@@WW0ZS7:.                                         
+                                              .:;X2Z80BWWWW@W@W@W@WWWWWBBBBBBBBWBWWWWWW@W@W@WWWB00ZZX7i,                                              
+                                                      ,:;r7XS2aZZ88800B0BBBBBBB0B0088ZZaa2SX7;i,.                                                     

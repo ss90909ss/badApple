@@ -1,0 +1,66 @@
+                                                   .                                                 ...                                              
+                                                  ,:.                                                 :,                                              
+                                                 .;;:. ..                                     ..      .i,                                             
+                                                 :SXri:,:.                                    ii.      :i.                                            
+                                                 ;Z2r7r:::                                   .X7,..,., .i,                                            
+                                                 XBa;SZi::                                   :aXi,ii:i. ,.                                            
+                                                 SBSi80;iBar;:                       .;28WMMMSX7;;7;;;..                                              
+                                               . 7Z;:Z8i7MMMMMMMMWa:             :2@MMMMMMMMMZr;222r;: ,. ,.                                          
+                                               i.:7i;2S:;MMMMMMMMMMMMM2. rXSi rWMMMMMMMMMMMMMZ:X@@a;:, :::ii                                          
+                                              ,7i iX8ar. WMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMS.8MMai;, ;r;2;                                          
+                                             :7ZX.,BMW;  ZMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMa WMM2i7,.XXX07                                          
+                                            .78M0,iMMBri;ZMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM0 8MMBr;,rZaaBr                                          
+                                             a@MW.:@8S7Z8WMMMMMMWMMMMMMMMMMMMMMMMMMMMBMMMMMMMB,Z@M@X,:0MaXX,                                          
+                                            ,8MMW  X;78@MMMMMM0 7MMMMMMMMMMMMMMMMMMMMa 7MBaMMrSMBW0X XMM8,: .,                                        
+                                           ..0MMMZ7Xi8MMMMW8i  7MMMMMMMMMMMMMMMMMMMMMMM    ZX;0MM82r:@MM0 , ,i                                        
+                                       .,  : 7MMMMMM@MMMMM2Za,.MMMMMMMMMMMMMMMMMMMMMMMMW  .X2SMMM0X7BMMM022::i                                        
+                                       ,i: :  ZMMMMMMMMMM@aMM;0MMMMMMMMMMMMMMMMMMMMMMMMM  ;;ZMMMMMWWMMMMMMMSi.                                        
+                                         i. i:;8MMMMMMMMMMMMMXMMMMMMMMMMMMMMMMMMMMMMMMMMX:XrZMMMMMMMMMMMMMMZi                                         
+                                         .. :::SMMMMMMMMMMMMM;MMMMMMMMMMMMMMMMMMMMMMMMMM2i7;iZMMMMMMMMMMMMMa                                          
+                                            ;20MMMMMMMMMMMMMS MMMMMMMMMMMMMMMMMMMMMMMMMMa .:X2WMMMMMMMMMMMM                                           
+                                            XMMMMMMMMMMMMMMW  MMMMMMMMMMMMMMMMMMMMMMMMMMB   SMMMMMMMMMMMMMr                                           
+                                            ;MMMMMMMMMMMMMMZ  MMMMMMMMMMMMMMMMMMMMMMMMMMM ..rMMMMMMMMMMMMW                                            
+                                             :XZMMMMMMMMMMW  ,MMMMMMMMMMMMMMMMMMMMMMMMMMM i2SMMMMMMMMMMMZ                                             
+                                                i@MMMMMMMMB2 7MMMMMMMMMMMMMMMMMMMMMMMMMMM  ;S8MMMMMMMMM0                                              
+                                                :2MMMMMMW@Wa ZMMMMMMMMMMMMMMMMMMMMMMMMMMM   7Z7i2MMMMMZ    .                                          
+                                          MM@X     XSaWZa7.  0MMMMMMMMMMMMMMMMMMMMMMMMMMM,  .XZZZi;XaZa20MMMM                                         
+                                          MMMMMMZ8;          MMMMMMMMMMMMMMMMMMMMMMMMMMMMX     .    BMMMMMM2i                                         
+                                            iMMMMMM:MZ       MMMMMMMMMMMMMMMMMMMMMMMMMMMMX      .MZMMMMMM@                                            
+                                             MMMMMMMMM 02    MMMMMMMMMMMMMMMMMMMMMMMMMMMM8    MZMMMMMMMMMB                                            
+                                             aMMMMMMMMMMMMMX;MMMMMMMMMMMMMMMMMMMMMMMMMMMMW XZ8MMMMMMMMMWS                                             
+                                               2MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM0                                              
+                                               WMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMi                                             
+                                              ,MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM                                              
+                                               WMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMr                                              
+                                                BMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMZ                                               
+                                                 8MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM                                                
+                                                  MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMX                                                
+                                                  :MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM                                                 
+                                                   WMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM0                                                 
+                                                    MMMMMMMMWWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMi                                                 
+                                                    ;MMMMMMMX;MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM                                                  
+                                                      :XXi,Ma MMMMMMMMMMMMMMMMMMMMMMMMMMMMM8.@MMMMa                                                   
+                                                           M0 MMMMMMMMMMMMMMMMMMMMMMMMMMMMM0                                                          
+                                                           MW aXMMMMMMMMMMMMMMMMMMMMMMMMMMMr                                                          
+                                                       2X  MW 27MMMMMMMMMMMMMMMMMMMMMMMMMMM                                                           
+                                                       MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMW@M ,a0                                                       
+                                                       rMMa@M;aMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM                                                       
+                                                           rM   .MMMMMMMMMMMMMMMMMMMMMMraMM0MM8                                                       
+                                                           .M  8MMMMMMMMMMMMMMMMMMMMMMM, 2M                                                           
+                                                            M iMMMMMMMMMMMMMMMMMMMMMMMMM ;M                                                           
+                                                            @  MMMMMMMMMMMMMMMMMMMMMMMMM ,@                                                           
+                                                            S  MMMMMMMMMMMMMMMMMMMMMMMMM  8                                                           
+                                                            .  MMMMMMMMMMMMMMMMMMMMMMMMM  X                                                           
+                                                              ZMMMMMMMMMMMMMMMMMMMMMMMMM:                                                             
+                                                              MMMMMMMMMMMMMMMMMMMMMMMMMMM                                                             
+                                                             MMMMMMMMMMMMMMMMMMMMMMMMMMMM2                                                            
+                                                            SMMMMMMMMMMMMMMMMMMMMMMMMMMMMM,                                                           
+                                                           :MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM                                                           
+                                                           MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM                                                          
+                                                          0MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM7                                                         
+                                                         .MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM                                                         
+                                                         WMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMa                                                        
+                                                        .MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM                                                        
+                                                        MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMW                                                       
+                                                       iMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM:                                                      
+                                                       MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM                                                      

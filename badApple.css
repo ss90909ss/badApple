@@ -1,0 +1,33 @@
+input,.bar{
+    float: left;
+    margin-right: 10px;
+}
+.top{
+    overflow: auto;
+}
+.bar{
+    position: relative;
+    display: flex;
+    align-items: center;
+    height: 22px;
+    width: 400px;
+    background-color: rgb(60, 60, 60);
+    border-radius: 4px;
+    padding: 0 10px;
+}
+.progress{
+    height: 4px;
+    width: 100%;
+    background-color: rgb(0, 195, 255);
+    border-radius: 2px;
+}
+.btn{
+    position: absolute;
+    height: 10px;
+    width: 10px;
+    background-color: rgb(0, 195, 255);
+    border-radius: 50%;
+}
+textarea{
+    font-size: 8px;
+}
